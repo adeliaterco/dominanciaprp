@@ -246,7 +246,7 @@ const Index = () => {
       {/* SECTION 9 - DECLINE */}
       <section className="py-8 px-4 text-center">
         <a 
-          href="https://sistemaplan.vercel.app/" 
+          href="https://prpapp.vercel.app/" 
           className="text-sm text-muted-foreground/60 hover:text-ruby transition-colors animated-underline"
         >
           No, prefiero arriesgarme solo
