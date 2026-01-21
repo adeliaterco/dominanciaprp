@@ -14,7 +14,7 @@ export const ValueStack = () => {
         <p className="text-lg text-emerald mb-2">SOLO POR HOY</p>
         <div className="flex items-center justify-center gap-2 mb-4">
           <span className="text-6xl md:text-7xl font-black gradient-text">
-            $<AnimatedCounter end={12} />
+            $<AnimatedCounter end={19} />
           </span>
         </div>
 
